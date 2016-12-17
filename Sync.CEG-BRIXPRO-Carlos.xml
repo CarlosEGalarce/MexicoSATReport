@@ -148,7 +148,81 @@
 <update>
   <CommandName>Custom</CommandName>
   <HeaderText>Sellar Facturas</HeaderText>
-</update></c></log><log type="Application" ><c y="NodeSet" t="2016-12-17T13:07:14"><page name="Home" />
+</update></c><c y="NodeSet" t="2016-12-17T13:42:12"><controller name="InvoiceTaxReport" />
+<actionGroup id="ag2" />
+<action id="a2" />
+<update>
+  <CommandName>None</CommandName>
+</update></c><c y="NodeSet" t="2016-12-17T13:43:07"><controller name="InvoiceTaxReport" />
+<actionGroup id="ag2" />
+<action id="a1" />
+<update>
+  <CommandName>None</CommandName>
+</update></c><c y="NodeSet" t="2016-12-17T13:44:13"><controller name="InvoiceTaxReport" />
+<actionGroup id="ag2" />
+<action id="a1" />
+<delete /></c><c y="NodeSet" t="2016-12-17T13:44:18"><controller name="InvoiceTaxReport" />
+<actionGroup id="ag2" />
+<action id="a2" />
+<delete /></c><c y="NodeSet" t="2016-12-17T13:44:21"><controller name="InvoiceTaxReport" />
+<actionGroup id="ag2" />
+<update>
+  <Flat>false</Flat>
+</update></c><c y="NodeSet" t="2016-12-17T14:07:48"><controller name="InvoiceTaxReport" />
+<actionGroup id="ag3" />
+<action id="a1" />
+<delete /></c><c y="NodeSet" t="2016-12-17T14:10:58"><controller name="InvoiceTaxReport" />
+<actionGroup id="ag2" />
+<action id="a4" />
+<delete /></c><c y="NodeSet" t="2016-12-17T14:10:58"><controller name="InvoiceTaxReport" />
+<actionGroup id="ag2" />
+<action id="a5" />
+<delete /></c><c y="NodeSet" t="2016-12-17T14:10:58"><controller name="InvoiceTaxReport" />
+<actionGroup id="ag2" />
+<action id="a6" />
+<delete /></c><c y="NodeSet" t="2016-12-17T14:10:58"><controller name="InvoiceTaxReport" />
+<actionGroup id="ag2" />
+<action id="a7" />
+<delete /></c><c y="NodeSet" t="2016-12-17T14:10:58"><controller name="InvoiceTaxReport" />
+<actionGroup id="ag2" />
+<action id="a8" />
+<delete /></c><c y="NodeSet" t="2016-12-17T14:10:58"><controller name="InvoiceTaxReport" />
+<actionGroup id="ag2" />
+<action id="a9" />
+<delete /></c><c y="NodeSet" t="2016-12-17T14:10:58"><controller name="InvoiceTaxReport" />
+<actionGroup id="ag2" />
+<action id="a10" />
+<delete /></c><c y="NodeSet" t="2016-12-17T14:10:58"><controller name="InvoiceTaxReport" />
+<actionGroup id="ag2" />
+<action id="a13" />
+<delete /></c><c y="NodeSet" t="2016-12-17T14:10:58"><controller name="InvoiceTaxReport" />
+<actionGroup id="ag2" />
+<action id="a14" />
+<delete /></c><c y="NodeSet" t="2016-12-17T14:12:48"><controller name="InvoiceTaxReport" />
+<actionGroup id="ag4" />
+<action id="a2" />
+<delete /></c><c y="NodeSet" t="2016-12-17T14:12:51"><controller name="InvoiceTaxReport" />
+<actionGroup id="ag4" />
+<action id="a1" />
+<delete /></c><c y="NodeSet" t="2016-12-17T14:14:43"><controller name="InvoiceTaxReport" />
+<actionGroup id="ag5" />
+<action id="a5" />
+<delete /></c><c y="NodeSet" t="2016-12-17T14:14:43"><controller name="InvoiceTaxReport" />
+<actionGroup id="ag5" />
+<action id="a6" />
+<delete /></c><c y="NodeSet" t="2016-12-17T14:14:43"><controller name="InvoiceTaxReport" />
+<actionGroup id="ag5" />
+<action id="a7" />
+<delete /></c><c y="NodeSet" t="2016-12-17T14:14:43"><controller name="InvoiceTaxReport" />
+<actionGroup id="ag5" />
+<action id="a8" />
+<delete /></c><c y="NodeSet" t="2016-12-17T14:16:07"><controller name="InvoiceTaxReport" />
+<actionGroup id="ag4" />
+<delete /></c><c y="NodeSet" t="2016-12-17T14:17:26"><controller name="InvoiceTaxReport" />
+<view id="createForm1" />
+<delete /></c><c y="NodeSet" t="2016-12-17T14:18:41"><controller name="InvoiceTaxReport" />
+<view id="editForm1" />
+<delete /></c></log><log type="Application" ><c y="NodeSet" t="2016-12-17T13:07:14"><page name="Home" />
 <delete /></c><c y="NodeSet" t="2016-12-17T13:19:25"><page name="InvoiceTaxReport" />
 <dataView id="view1" />
 <update>
@@ -186,4 +260,13 @@ view-style-charts-disabled</Tag>
 </update></c><c y="NodeSet" t="2016-12-17T13:26:01"><page name="InvoiceTaxReport" />
 <update>
   <UseExtenders>false</UseExtenders>
+</update></c><c y="NodeSet" t="2016-12-17T14:17:30"><page name="InvoiceTaxReport" />
+<dataView id="view1" />
+<update>
+  <Tag>view-style-grid-enabled
+view-style-list-disabled 
+view-style-cards-disabled 
+view-style-map-disabled 
+view-style-calendar-disabled
+view-style-charts-disabled</Tag>
 </update></c></log></logs>
