@@ -50,20 +50,20 @@ from "dbo"."InvoiceTaxReport" "InvoiceTaxReport"
     <view id="grid1" type="Grid" commandId="command1" label="Invoice Tax Report">
       <headerText>$DefaultGridViewDescription</headerText>
       <dataFields>
+        <dataField fieldName="LocationID" columns="10" />
         <dataField fieldName="InvoiceID" columns="15" />
-        <dataField fieldName="Payload" rows="5" />
-        <dataField fieldName="Status" columns="50" />
-        <dataField fieldName="CountryCode" columns="10" />
-        <dataField fieldName="CreatedOn" columns="20" />
-        <dataField fieldName="CreatedBy" columns="15" />
-        <dataField fieldName="ModifiedOn" columns="20" />
-        <dataField fieldName="ModifiedBy" columns="15" />
+        <dataField fieldName="InvoiceTimestamp" columns="10" />
+        <dataField fieldName="Payload" rows="5" hidden="true" />
+        <dataField fieldName="Status" columns="20" />
+        <dataField fieldName="CountryCode" columns="10" hidden="true" />
         <dataField fieldName="Uid" />
-        <dataField fieldName="Pdf" columns="15" />
+        <dataField fieldName="Pdf" columns="15" hidden="true" />
         <dataField fieldName="Tries" columns="15" />
         <dataField fieldName="ServiceUsed" columns="50" />
-        <dataField fieldName="LocationID" columns="15" />
-        <dataField fieldName="InvoiceTimestamp" columns="10" />
+        <dataField fieldName="CreatedOn" columns="20" hidden="true" />
+        <dataField fieldName="CreatedBy" columns="15" hidden="true" />
+        <dataField fieldName="ModifiedOn" columns="20" hidden="true" />
+        <dataField fieldName="ModifiedBy" columns="15" hidden="true" />
       </dataFields>
     </view>
     <view id="editForm1" type="Form" commandId="command1" label="Review Invoice Tax Report">

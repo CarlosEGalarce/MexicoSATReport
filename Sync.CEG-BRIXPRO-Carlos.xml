@@ -1,1 +1,119 @@
-﻿<?xml version="1.0" encoding="utf-8"?><logs><log type="Controllers" /><log type="Application" /></logs>
+<?xml version="1.0" encoding="utf-8"?><logs><log type="Controllers" ><c y="NodeSet" t="2016-12-17T13:08:58"><controller name="InvoiceTaxReport" />
+<view id="grid1" />
+<dataField fieldName="InvoiceID" />
+<move>
+  <controller name="InvoiceTaxReport" />
+  <view id="grid1" />
+  <dataField fieldName="InvoiceTimestamp" />
+</move></c><c y="NodeSet" t="2016-12-17T13:09:10"><controller name="InvoiceTaxReport" />
+<view id="grid1" />
+<dataField fieldName="InvoiceTimestamp" />
+<update>
+  <Hidden>true</Hidden>
+  <DataViewShowInSummary>false</DataViewShowInSummary>
+</update></c><c y="NodeSet" t="2016-12-17T13:09:27"><controller name="InvoiceTaxReport" />
+<view id="grid1" />
+<dataField fieldName="CountryCode" />
+<update>
+  <Hidden>true</Hidden>
+  <DataViewShowInSummary>false</DataViewShowInSummary>
+</update></c><c y="NodeSet" t="2016-12-17T13:09:36"><controller name="InvoiceTaxReport" />
+<view id="grid1" />
+<dataField fieldName="ServiceUsed" />
+<move>
+  <controller name="InvoiceTaxReport" />
+  <view id="grid1" />
+  <dataField fieldName="ModifiedBy" />
+</move></c><c y="NodeSet" t="2016-12-17T13:09:36"><controller name="InvoiceTaxReport" />
+<view id="grid1" />
+<dataField fieldName="ServiceUsed" />
+<move>
+  <controller name="InvoiceTaxReport" />
+  <view id="grid1" />
+  <dataField fieldName="ModifiedOn" />
+</move></c><c y="NodeSet" t="2016-12-17T13:09:36"><controller name="InvoiceTaxReport" />
+<view id="grid1" />
+<dataField fieldName="ServiceUsed" />
+<move>
+  <controller name="InvoiceTaxReport" />
+  <view id="grid1" />
+  <dataField fieldName="CreatedBy" />
+</move></c><c y="NodeSet" t="2016-12-17T13:09:36"><controller name="InvoiceTaxReport" />
+<view id="grid1" />
+<dataField fieldName="ServiceUsed" />
+<move>
+  <controller name="InvoiceTaxReport" />
+  <view id="grid1" />
+  <dataField fieldName="CreatedOn" />
+</move></c><c y="NodeSet" t="2016-12-17T13:09:41"><controller name="InvoiceTaxReport" />
+<view id="grid1" />
+<dataField fieldName="InvoiceID" />
+<move>
+  <controller name="InvoiceTaxReport" />
+  <view id="grid1" />
+  <dataField fieldName="LocationID" />
+</move></c><c y="NodeSet" t="2016-12-17T13:09:44"><controller name="InvoiceTaxReport" />
+<view id="grid1" />
+<dataField fieldName="LocationID" />
+<move>
+  <controller name="InvoiceTaxReport" />
+  <view id="grid1" />
+  <dataField fieldName="InvoiceID" />
+</move></c><c y="NodeSet" t="2016-12-17T13:10:16"><controller name="InvoiceTaxReport" />
+<view id="grid1" />
+<dataField fieldName="Pdf" />
+<update>
+  <Hidden>true</Hidden>
+  <DataViewShowInSummary>false</DataViewShowInSummary>
+</update></c><c y="NodeSet" t="2016-12-17T13:11:01"><controller name="InvoiceTaxReport" />
+<view id="grid1" />
+<dataField fieldName="Payload" />
+<update>
+  <Hidden>true</Hidden>
+  <DataViewShowInSummary>false</DataViewShowInSummary>
+</update></c><c y="NodeSet" t="2016-12-17T13:11:44"><controller name="InvoiceTaxReport" />
+<view id="grid1" />
+<dataField fieldName="InvoiceTimestamp" />
+<update>
+  <Hidden>false</Hidden>
+  <DataViewShowInSummary>false</DataViewShowInSummary>
+</update></c><c y="NodeSet" t="2016-12-17T13:11:57"><controller name="InvoiceTaxReport" />
+<view id="grid1" />
+<dataField fieldName="CreatedOn" />
+<update>
+  <Hidden>true</Hidden>
+  <DataViewShowInSummary>false</DataViewShowInSummary>
+</update></c><c y="NodeSet" t="2016-12-17T13:12:09"><controller name="InvoiceTaxReport" />
+<view id="grid1" />
+<dataField fieldName="CreatedBy" />
+<update>
+  <Hidden>true</Hidden>
+  <DataViewShowInSummary>false</DataViewShowInSummary>
+</update></c><c y="NodeSet" t="2016-12-17T13:12:18"><controller name="InvoiceTaxReport" />
+<view id="grid1" />
+<dataField fieldName="ModifiedOn" />
+<update>
+  <Hidden>true</Hidden>
+  <DataViewShowInSummary>false</DataViewShowInSummary>
+</update></c><c y="NodeSet" t="2016-12-17T13:12:26"><controller name="InvoiceTaxReport" />
+<view id="grid1" />
+<dataField fieldName="ModifiedBy" />
+<update>
+  <Hidden>true</Hidden>
+  <DataViewShowInSummary>false</DataViewShowInSummary>
+</update></c><c y="NodeSet" t="2016-12-17T13:13:05"><controller name="InvoiceTaxReport" />
+<view id="grid1" />
+<dataField fieldName="LocationID" />
+<update>
+  <Columns>10</Columns>
+  <Hidden>false</Hidden>
+  <DataViewShowInSummary>false</DataViewShowInSummary>
+</update></c><c y="NodeSet" t="2016-12-17T13:13:51"><controller name="InvoiceTaxReport" />
+<view id="grid1" />
+<dataField fieldName="Status" />
+<update>
+  <Columns>20</Columns>
+  <Hidden>false</Hidden>
+  <DataViewShowInSummary>false</DataViewShowInSummary>
+</update></c></log><log type="Application" ><c y="NodeSet" t="2016-12-17T13:07:14"><page name="Home" />
+<delete /></c></log></logs>
