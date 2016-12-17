@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<dataModel baseSchema="dbo" baseTable="InvoiceTaxReport" alias="InvoiceTaxReport" created="2016-12-17T12:26:36" modified="2016-12-17T12:26:40" x="20" y="20" xmlns="urn:schemas-codeontime-com:data-model">
+  <foreignKeys />
+  <columns>
+    <column name="Id" fieldName="ID" label="Id" />
+    <column name="InvoiceId" fieldName="InvoiceID" label="Invoice Id" />
+    <column name="Payload" fieldName="Payload" label="Payload" />
+    <column name="Status" fieldName="Status" label="Status" />
+    <column name="CountryCode" fieldName="CountryCode" label="Country Code" />
+    <column name="CreatedOn" fieldName="CreatedOn" label="Created On" format="g" />
+    <column name="CreatedBy" fieldName="CreatedBy" label="Created By" />
+    <column name="ModifiedOn" fieldName="ModifiedOn" label="Modified On" format="g" />
+    <column name="ModifiedBy" fieldName="ModifiedBy" label="Modified By" />
+    <column name="Uid" fieldName="Uid" label="Uid" />
+    <column name="Pdf" fieldName="Pdf" label="Pdf" />
+    <column name="Tries" fieldName="Tries" label="Tries" />
+    <column name="ServiceUsed" fieldName="ServiceUsed" label="Service Used" />
+    <column name="LocationId" fieldName="LocationID" label="Location Id" />
+    <column name="InvoiceTimestamp" fieldName="InvoiceTimestamp" label="Invoice Timestamp" />
+  </columns>
+</dataModel>
