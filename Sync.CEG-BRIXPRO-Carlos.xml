@@ -115,5 +115,75 @@
   <Columns>20</Columns>
   <Hidden>false</Hidden>
   <DataViewShowInSummary>false</DataViewShowInSummary>
+</update></c><c y="NodeSet" t="2016-12-17T13:28:25"><controller name="InvoiceTaxReport" />
+<actionGroup id="ag3" />
+<action id="a1" />
+<update>
+  <CommandName>None</CommandName>
+</update></c><c y="NodeSet" t="2016-12-17T13:30:43"><controller name="InvoiceTaxReport" />
+<actionGroup id="ag5" />
+<action id="a4" />
+<delete /></c><c y="NodeSet" t="2016-12-17T13:30:47"><controller name="InvoiceTaxReport" />
+<actionGroup id="ag5" />
+<update>
+  <Flat>false</Flat>
+</update></c><c y="NodeSet" t="2016-12-17T13:31:22"><controller name="InvoiceTaxReport" />
+<actionGroup id="ag7" />
+<action id="a2" />
+<delete /></c><c y="NodeSet" t="2016-12-17T13:31:28"><controller name="InvoiceTaxReport" />
+<actionGroup id="ag7" />
+<action id="a4" />
+<delete /></c><c y="NodeSet" t="2016-12-17T13:31:31"><controller name="InvoiceTaxReport" />
+<actionGroup id="ag7" />
+<update>
+  <Flat>false</Flat>
+</update></c><c y="NodeSet" t="2016-12-17T13:35:37"><controller name="InvoiceTaxReport" />
+<actionGroup id="ag5" />
+<action id="a3" />
+<update>
+  <CommandName>ClientScript</CommandName>
+</update></c><c y="NodeSet" t="2016-12-17T13:37:38"><controller name="InvoiceTaxReport" />
+<actionGroup id="ag5" />
+<action id="a3" />
+<update>
+  <CommandName>Custom</CommandName>
+  <HeaderText>Sellar Facturas</HeaderText>
 </update></c></log><log type="Application" ><c y="NodeSet" t="2016-12-17T13:07:14"><page name="Home" />
-<delete /></c></log></logs>
+<delete /></c><c y="NodeSet" t="2016-12-17T13:19:25"><page name="InvoiceTaxReport" />
+<dataView id="view1" />
+<update>
+  <Tag>view-style-grid-enabled
+view-style-list-disabled 
+view-style-cards-disabled 
+view-style-map-disabled 
+view-style-calendar-disabled</Tag>
+</update></c><c y="NodeSet" t="2016-12-17T13:19:43"><page name="InvoiceTaxReport" />
+<dataView id="view1" />
+<update>
+  <Tag>view-style-grid-enabled
+view-style-list-disabled 
+view-style-cards-disabled 
+view-style-map-disabled 
+view-style-calendar-disabled</Tag>
+</update></c><c y="NodeSet" t="2016-12-17T13:21:44"><page name="InvoiceTaxReport" />
+<dataView id="view1" />
+<update>
+  <Tag>view-style-grid-enabled
+view-style-list-disabled 
+view-style-cards-disabled 
+view-style-map-disabled 
+view-style-calendar-disabled
+view-style-charts-disabled</Tag>
+</update></c><c y="NodeSet" t="2016-12-17T13:23:02"><page name="InvoiceTaxReport" />
+<dataView id="view1" />
+<update>
+  <Tag>view-style-grid-enabled
+view-style-list-disabled 
+view-style-cards-disabled 
+view-style-map-disabled 
+view-style-calendar-disabled
+view-style-charts-disabled</Tag>
+</update></c><c y="NodeSet" t="2016-12-17T13:26:01"><page name="InvoiceTaxReport" />
+<update>
+  <UseExtenders>false</UseExtenders>
+</update></c></log></logs>

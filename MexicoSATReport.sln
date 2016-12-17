@@ -20,6 +20,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WebSite", "WebSite\", "{33C
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "55212"
+		SlnRelativePath = "WebSite\"
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Code On Time Items", "Code On Time Items", "{414A4FCE-BC68-4391-A616-462404986AE1}"
